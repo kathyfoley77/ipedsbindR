@@ -1,0 +1,11 @@
+Package: ipedsbindR
+Type: Package
+Title: Read and Bind IPEDS CSVs
+Version: 0.1
+Date: 2015-06-03
+Author: Kathleen Foley <kathyfoley77@gmail.com>
+Maintainer: Kathleen Foley <kathyfoley77@gmail.com>
+Description: Reads in and binds together multiple years of IPEDS data
+License: GPLv3
+LazyData: TRUE
+Imports: stringr
