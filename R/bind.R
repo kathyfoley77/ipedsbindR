@@ -4,6 +4,7 @@
 #' @export
 bindfiles <- function(directory){
 
+
 currentdir <- getwd()
 cat("orig wd was:", currentdir, "\n")
 
